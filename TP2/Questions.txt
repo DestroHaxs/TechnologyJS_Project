@@ -1,0 +1,15 @@
+Q1:
+
+Express.js, parfois aussi appelé « Express », est un framework backend Node.js minimaliste, 
+rapide et de type Sinatra qui offre des fonctionnalités et des outils robustes pour développer des applications backend évolutives.
+ Il vous offre le système de routage et des fonctionnalités simplifiées pour étendre le framework en développant des composants et
+des parties plus puissants en fonction des cas d’utilisation de votre application.
+
+Q2:
+
+Les middlewares dans Express.js sont des fonctions qui s'exécutent pendant le cycle de vie d'une requête HTTP
+
+exp1:
+express.json()
+exp2:
+express.static()
